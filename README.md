@@ -1,0 +1,2 @@
+# sample
+sample c code
